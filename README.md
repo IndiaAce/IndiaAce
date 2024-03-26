@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @IndiaAce you can just call me India! 
-- 👀 I’m interested in Information Security, Ethical Hacking, Python, and all things AI. 
-- 🌱 I’m currently trying to code every day while learning ethical hacking and enterprise information security.
-- 💞️ I’m looking to collaborate on anything AI related or if you want to do a capture the flag.
+- 👀 I’m interested in Information Security.
 
 <!---
 IndiaAce/IndiaAce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

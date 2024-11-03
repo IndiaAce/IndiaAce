@@ -2,15 +2,15 @@
 
 ## About Me
 
-👋 Hi there! I'm **IndiaAce**, a **Detection Engineer** seeking to create cutting-edge detections and delve deep into all things cybersecurity. I blend threat hunting and attack simulation into a seamless CI/CD pipeline for detection creation. I play both offense and defense, ensuring a comprehensive approach to cybersecurity.
+👋 Hi there! I'm **IndiaAce**, a **Detection Engineer** with an interest in blending ML and Cybersecurity.
 
 ## My Projects
 
-### Autonomous Home Lab 🌐
-Currently, I'm working on transforming my home lab into a fully autonomous environment that:
-- **Simulates Attacks**: Automated scripts for realistic attack scenarios. I've thought about utilizing ChatGPT for this... still thinking...
-- **Hunts Threats**: Advanced detection algorithms and threat intelligence integration.
-- **CI/CD Pipeline**: Continuous integration and deployment for seamless detection updates.
+### ML Spotfiy Mood Predictor & Other Mood Related Things 🎧😊
+Currently, I'm working on a SpotiPy/sklearn project that will tell you your mood of your music with your recent listening history, or a given playlist:
+- **Mood of Selected Playlist**: Let's you input one of your playlists, and it will tell you the mood of it.
+- **Weekly Mood Trend**: Analyzes the last week of most-played songs to identify the mood of those tracks. It will then tell you the mood.
+- **Mood Variance Last 12 Months**: Comming soon... I hope.
 
 ### Machine Learning & NLP in Threat Defense 🤖
 Exploring the intersection of **Machine Learning** and **NLP** to enhance threat detection and hunting capabilities:

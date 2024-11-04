@@ -12,7 +12,7 @@ Currently, I'm working on a SpotiPy/sklearn project that will tell you your mood
 - **Weekly Mood Trend**: Analyzes the last week of most-played songs to identify the mood of those tracks. It will then tell you the mood.
 - **Mood Variance Last 12 Months**: Comming soon... I hope.
 
-### Machine Learning & NLP in Threat Defense 🤖
+### Machine Learning & NLP in Threat Defense with Splunk 🤖
 Exploring the intersection of **Machine Learning** and **NLP** to enhance threat detection and hunting capabilities:
-- **Anomaly Detection**: Using ML models to identify unusual patterns.
+- **Pass TTPs as Arguments**: Using ML models to print out SPL to detect TTPs.
 - **Log Parsing**: NLP techniques for effective log analysis.
